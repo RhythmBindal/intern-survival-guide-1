@@ -1,2 +1,2 @@
-## Rhythm's Golden tip
-Learn Git before Git teaches you a lesson.
+Anshuman's golden tip
+Your first PR won’t be perfect. Submit anyway.
